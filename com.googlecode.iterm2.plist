@@ -296,62 +296,23 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Downloads</string>
+	<string>~/termrc</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
-	<string>{712, 448}</string>
-	<key>NSNavPanelExpandedSizeForSaveMode</key>
-	<string>{712, 521}</string>
+	<string>{712, 459}</string>
 	<key>NSQuotedKeystrokeBinding</key>
 	<string></string>
 	<key>NSRepeatCountBinding</key>
 	<string></string>
 	<key>NSScrollAnimationEnabled</key>
 	<false/>
-	<key>NSTableView Columns KeyBingingTable</key>
-	<array>
-		<data>
-		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
-		hAErATCG
-		</data>
-		<string>198</string>
-		<data>
-		BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU1N0cmluZwGEhAhOU09iamVjdACF
-		hAErATGG
-		</data>
-		<string>302</string>
-	</array>
-	<key>NSTableView Hidden Columns KeyBingingTable</key>
-	<array/>
-	<key>NSTableView Sort Ordering KeyBingingTable</key>
-	<array/>
 	<key>NSWindow Frame Preferences</key>
-	<string>135 424 924 485 0 0 2560 1417 </string>
+	<string>270 146 924 485 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>3233 762 1151 655 2560 240 1920 1177 </string>
+	<string>260 118 570 451 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>13 118 1179 400 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 10</key>
-	<string>1392 504 1697 604 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 11</key>
-	<string>3276 825 1102 502 2560 240 1920 1177 </string>
-	<key>NSWindow Frame iTerm Window 12</key>
-	<string>72 345 570 451 0 0 2560 1417 </string>
+	<string>28 231 570 451 0 0 1280 777 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>1229 65 1207 451 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 3</key>
-	<string>2575 415 661 774 2560 240 1920 1177 </string>
-	<key>NSWindow Frame iTerm Window 4</key>
-	<string>1205 513 1179 893 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 5</key>
-	<string>289 609 2341 808 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 6</key>
-	<string>1356 86 1046 451 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 7</key>
-	<string>20 150 2170 476 0 0 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 8</key>
-	<string>2828 469 1690 893 2560 240 1920 1177 </string>
-	<key>NSWindow Frame iTerm Window 9</key>
-	<string>18 101 1459 604 0 0 2560 1417 </string>
+	<string>260 118 570 451 0 0 1280 777 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1081,9 +1042,9 @@
 		</dict>
 	</array>
 	<key>NoSyncTimeOfLastPromo</key>
-	<real>470140385.80830997</real>
+	<real>479616554.62536699</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>482053859.677827</real>
+	<real>482083173.45884198</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -1130,7 +1091,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/atcipherbuild/Downloads</string>
+	<string>/Users/atcipher/termrc</string>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1146,11 +1107,11 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-04-11T07:47:30Z</date>
-	<key>SUSendProfileInfo</key>
-	<false/>
+	<date>2016-04-12T07:31:58Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
+	<key>Show Toolbelt</key>
+	<true/>
 	<key>ShowBookmarkName</key>
 	<false/>
 	<key>ShowPaneTitles</key>
@@ -1169,6 +1130,11 @@
 	<false/>
 	<key>TmuxDashboardLimit</key>
 	<integer>10</integer>
+	<key>ToolbeltTools</key>
+	<array>
+		<string>Jobs</string>
+		<string>Notes</string>
+	</array>
 	<key>TripleClickSelectsFullWrappedLines</key>
 	<false/>
 	<key>URLHandlersByGuid</key>
