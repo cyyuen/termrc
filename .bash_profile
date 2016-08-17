@@ -1,12 +1,12 @@
+# setup golang development environment
 export GOROOT=/usr/local/go
 export PATH=$PATH:$GOROOT/bin
 
-export GOPATH=$HOME/go
-export PATH=$PATH:$GOPATH/bin
-
+# setup terminal color and ls color output
 export CLICOLOR=1
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
+# Setup git prompt variables
 # Set config variables first
 GIT_PROMPT_ONLY_IN_REPO=1
 
