@@ -6,6 +6,12 @@ export PATH=$PATH:$GOROOT/bin
 export CLICOLOR=1
 export LSCOLORS=gxBxhxDxfxhxhxhxhxcxcx
 
+# Setup git alias
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+
 # Setup git prompt variables
 # Set config variables first
 GIT_PROMPT_ONLY_IN_REPO=1
